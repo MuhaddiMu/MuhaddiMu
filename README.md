@@ -13,7 +13,7 @@ Muhaddis is a Web Developer & Security Researcher based in Pakistan who is ackno
 <a href="https://dev.to/muhaddimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhaddimu" height="20" width="20" /></a>
 <a href="https://twitter.com/muhaddimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhaddimu" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/muhaddimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhaddimu" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/muhaddis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muhaddis" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/9773113/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muhaddis" height="20" width="20" /></a>
 <a href="https://fb.com/muhaddimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhaddimu" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/muhammadmuhaddis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="muhammadmuhaddis" height="20" width="20" /></a>
 </p>
