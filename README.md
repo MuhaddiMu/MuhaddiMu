@@ -7,7 +7,7 @@ Muhaddis is a Web Developer & Security Researcher based in Pakistan who is ackno
 [VuetiForm](https://github.com/MuhaddiMu/VuetiForm)   
 [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue)   
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhaddimu&show_icons=true" alt="muhaddimu" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhaddimu&show_icons=true&count_private=true" alt="Muhaddi's GitHub stats" /> </p>
 
 <p align="center">
 <a href="https://dev.to/muhaddimu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhaddimu" height="20" width="20" /></a>
